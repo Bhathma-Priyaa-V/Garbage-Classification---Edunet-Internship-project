@@ -1,38 +1,30 @@
-👋 Welcome to my internship progress repository for the Edunet AI/ML Internship. I secured this opportunity through the AICTE Internship Portal. This repository serves as a complete record of my four-week journey in the Artificial Intelligence and Machine Learning domain. It includes code, notebooks, reports, and weekly updates on the project assigned during the internship.
+👋 Hello and welcome to my repository documenting the journey of my AI/ML internship with Edunet Foundation, secured through the AICTE Internship Portal. This space serves as a digital diary of my four-week hands-on experience in building a deep learning-based solution in the field of waste classification.
 
-📌 Internship Overview
+Throughout this internship, I’ve worked on a project that combines environmental awareness with artificial intelligence — applying advanced machine learning techniques to support automated garbage classification.
+
+📌 Internship Snapshot
 
 Domain: Artificial Intelligence and Machine Learning
-Duration: 4 Weeks
+Duration: Four Weeks
 Organization: Edunet Foundation
-Project Title: Garbage Classification using Transfer Learning
+Project Focus: Image-based Garbage Classification using Transfer Learning
 
-🧠 Project Summary
+🧠 Project Insight
 
-The goal of this project is to develop an AI-powered waste classification system that can assist in automatic garbage sorting. By using transfer learning with the EfficientNetV2B2 model, the project focuses on improving the accuracy and efficiency of classifying waste into categories. The model is trained to recognize different types of trash such as cardboard, glass, metal, paper, plastic, and general waste.
+Our modern world generates an overwhelming amount of waste — and sorting it efficiently is crucial for a sustainable future. My project tackles this issue by developing a smart image classification model that can recognize and categorize various types of trash from photographs.
 
-🎯 Objective
+Using the EfficientNetV2B2 architecture, enhanced through transfer learning, I’ve built a model capable of distinguishing between items like paper, plastic, glass, cardboard, and more. The aim is to eventually contribute to systems that assist in real-time waste sorting and recycling.
 
-To create a reliable and accurate garbage classification model using deep learning and transfer learning techniques that support automated waste segregation.
+🎯 Core Objective
 
-🗂️ Dataset Information
+To create a high-performance image classifier for waste categories by fine-tuning a pre-trained deep learning model. The system should help in automatic waste segregation and can be integrated into larger recycling or smart bin systems in the future.
 
-Dataset Title: Trash Type Image Dataset
-Source: Kaggle (https://www.kaggle.com/datasets/farzadnekouei/trash-type-image-dataset)
-Description: This dataset contains labeled images representing different types of trash, which are suitable for supervised training tasks in image classification.
+🗂️ Dataset Overview
 
-📁 Repository Contents
+Title: Trash Type Image Dataset
+Source: Kaggle – Farzad Nekouei’s Dataset
+Summary: A well-labeled collection of images featuring different types of garbage. This dataset includes categories such as cardboard, glass, metal, paper, plastic, and general trash. It’s ideal for building supervised learning models aimed at waste classification tasks.
 
-This repository includes all relevant code used for model development, along with Jupyter notebooks, visualizations, progress logs, and evaluation reports. It represents the practical application of machine learning skills gained during the internship and demonstrates my contribution to solving real-world environmental challenges using AI.
+🌱 Why This Matters
 
-🛠️ Tools and Technologies
-
-Python, TensorFlow, Keras
-EfficientNetV2B2 model for transfer learning
-Matplotlib and Seaborn for data visualization
-Gradio for building interactive model demos
-
-🌱 Purpose
-
-This project is a reflection of my hands-on experience during the internship and my interest in applying machine learning to address meaningful real-life problems such as environmental sustainability.
-
+This project isn’t just about learning deep learning — it’s about applying it to solve a problem that matters. By building a model that classifies garbage types accurately, I’m contributing (even in a small way) to technologies that could promote better recycling and cleaner urban environments.
